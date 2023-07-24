@@ -1,5 +1,5 @@
 /**
- * @name Final
+ * @name Final 2
  * @description Allows you to customize Discord's native Color Scheme.
  * @author DevilBro
  * @version 1.0.0
@@ -22,8 +22,8 @@
   --textbrightest: 255,255,255;
   --textbrighter: 222,222,222;
   --textbright: 185,185,185;
-  --textdark: 140,140,140;
-  --textdarker: 115,115,115;
+  --textdark: 205,204,204;
+  --textdarker: 157,157,157;
   --textdarkest: 80,80,80;
   --font: gg sans;
   --backgroundaccent: 25,31,46;
