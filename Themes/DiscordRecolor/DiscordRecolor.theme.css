@@ -1,5 +1,5 @@
 /**
- * @name Purple 2
+ * @name OfficialPage
  * @description Allows you to customize Discord's native Color Scheme.
  * @author DevilBro
  * @version 1.0.0
@@ -27,11 +27,11 @@
   --textdarkest: 80,80,80;
   --font: gg sans;
   --backgroundaccent: 25,31,46;
-  --backgroundprimary: 35,40,61;
-  --backgroundsecondary: 30,34,51;
-  --backgroundsecondaryalt: 25,31,46;
+  --backgroundprimary: 41,40,65;
+  --backgroundsecondary: 28,27,41;
+  --backgroundsecondaryalt: 41,40,65;
   --backgroundtertiary: 16,19,32;
-  --backgroundfloating: 16,19,32;
+  --backgroundfloating: 28,27,41;
   --settingsicons: 0;
 }
 
