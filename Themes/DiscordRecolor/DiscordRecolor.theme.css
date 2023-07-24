@@ -1,5 +1,5 @@
 /**
- * @name Purple 2
+ * @name Final
  * @description Allows you to customize Discord's native Color Scheme.
  * @author DevilBro
  * @version 1.0.0
@@ -15,7 +15,7 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
 
 :root {
-  --accentcolor: 22,62,175;
+  --accentcolor: 77,107,191;
   --accentcolor2: 255,115,250;
   --linkcolor: 0,176,244;
   --mentioncolor: 250,166,26;
